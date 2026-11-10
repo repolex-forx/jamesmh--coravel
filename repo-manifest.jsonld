@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jamesmh/coravel/commit/4072e041820f2d14529276340abb7150a83945da",
       "git:hexsha": "4072e041820f2d14529276340abb7150a83945da",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jamesmh/coravel/commit/50b96f247b49b9b2adc5178effa86611d6e5a2dd",
